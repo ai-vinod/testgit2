@@ -1,5 +1,0 @@
-new file inside branch2
-updated content
-updated again
-final
-last
